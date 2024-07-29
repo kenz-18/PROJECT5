@@ -1,1 +1,1 @@
-console.log(project 5)
+console.log(projecct5)
