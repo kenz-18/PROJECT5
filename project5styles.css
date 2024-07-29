@@ -71,7 +71,7 @@ nav a:hover {
 .feature {
 	margin: 20px;
 	padding: 20px;
-	background-color: #f0f0f0;
+	background-color:rgb(215, 250, 248);
 	border: 1px solid #ddd;
 }
 
@@ -89,7 +89,7 @@ nav a:hover {
 .testimonial {
 	margin: 20px;
 	padding: 20px;
-	background-color: #f0f0f0;
+	background-color:rgb(215, 250, 248);
 	border: 1px solid #ddd;
 }
 
